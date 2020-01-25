@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+	<paths>
+		<left>jp211.rc</left>
+		<right>ko211.rc</right>
+		<filter>*.*</filter>
+		<subfolders>1</subfolders>
+		<left-readonly>1</left-readonly>
+		<right-readonly>0</right-readonly>
+	</paths>
+</project>
