@@ -1,0 +1,1 @@
+ffmpeg -f image2 -r 15 -i "capture\%%03d.png" -vcodec libx264 "output.mp4"
