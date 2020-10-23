@@ -5,3 +5,5 @@
 capture.py를 원하는 내용으로 수정후 실행합니다.
 
 export.bat을 실행해 출력된 스크린샷을 동영상으로 취합합니다.
+
+https://youtu.be/CCGAerknjFg
